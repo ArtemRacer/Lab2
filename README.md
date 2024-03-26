@@ -1,2 +1,2 @@
-               Lab2            
-Working with SPI on Arduino
+
+Lab2 Working with SPI on Arduino
