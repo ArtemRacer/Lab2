@@ -1,3 +1,3 @@
+          Lab2
 
-           Lab2 
 Working with SPI on Arduino
